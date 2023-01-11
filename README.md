@@ -42,3 +42,12 @@ Git is version control system for tracking changes in computer files. It is gene
 ![slide11](sld11.JPG)
 
 
+![slide12](sld12.JPG)
+
+GIT HAS THREE STAGES TO PERFORM
+
+![SLIDE13](sld13.JPG)
+
+![slide14](sld14.JPG)
+
+
