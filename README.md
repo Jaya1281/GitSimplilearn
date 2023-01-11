@@ -60,7 +60,44 @@ GIT HAS THREE STAGES TO PERFORM
 
 **GIT COMMANDS**
 
-# 1. git init command
-a. The Git init command creates a new Git repository. The init command sets up all the configuration files you need to work with git in a folder called .git/. You only need to run the git init command once.
+**1. git config command**
 
-b. The git init command creates an empty Git repository. init can be used to convert an existing project into a Git repository. The init command can also initialize an empty repository for a new project.
+command returns a list of information about your git configuration including user name and email.
+
+**2. git config --global user.name "Jay"**
+
+The command configure your user name
+
+**3. git config --global user.email "signups@fabiopacifici.com"**
+
+setup the user email address you'll use in your commits
+
+**4. git init**
+
+Everything starts from here. The first step is to initialize a new Git repo locally in your project root.
+
+**5. git add filename_here**
+
+The command will add a file to the staging area. Just replace filename_here with the name of the file you want to add to the staging area.
+
+**6. git add .**
+
+To add all files in your project to the staging area, you can use a wildcard . and every file will be added for you.
+
+**7. git status**
+
+This command will show the status of the current repository including staged, unstaged, and untracked files.
+
+**8. git commit**
+
+This command will open a text editor in the terminal where you can write a full commit message.
+
+A commit message is made up of a short summary of changes, an empty line, and a full description of the changes after it.
+
+**9. git commit -m "your commit message here"**
+
+You can add a commit message without opening the editor. This command lets you only specify a short summary for your commit message.
+
+**10. git commit -a -m"your commit message here"**
+
+You can add and commit tracked files with a single command by using the -a and -m options.
