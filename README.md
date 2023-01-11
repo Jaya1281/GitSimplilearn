@@ -58,3 +58,9 @@ GIT HAS THREE STAGES TO PERFORM
 ![slide19](sld19.JPG)
 
 
+**GIT COMMANDS**
+
+# 1. git init command
+a. The Git init command creates a new Git repository. The init command sets up all the configuration files you need to work with git in a folder called .git/. You only need to run the git init command once.
+
+b. The git init command creates an empty Git repository. init can be used to convert an existing project into a Git repository. The init command can also initialize an empty repository for a new project.
