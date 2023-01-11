@@ -101,3 +101,32 @@ You can add a commit message without opening the editor. This command lets you o
 **10. git commit -a -m"your commit message here"**
 
 You can add and commit tracked files with a single command by using the -a and -m options.
+
+**11. git log**
+
+This command shows the commit history for the current repository
+
+**12. git log -p**
+
+This command shows the commit's history including all files and their changes
+
+**13. git diff**
+
+git diff shows only unstaged changes by default
+
+**14. git add -p**
+
+This command opens a prompt and asks if you want to stage changes or not, and includes other options.
+
+**15. git rm filename**
+
+To remove tracked files from the current working directory. This command expects a commit message to explain why the file was deleted.
+
+**16. git mv oldfile newfile**
+
+To rename files in git. This command stages the changes, then it expects a commit message.
+
+**17. .gitignore**
+
+To ignore files in git. Not to track those files
+
