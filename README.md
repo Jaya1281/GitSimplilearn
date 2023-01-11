@@ -31,5 +31,14 @@ WHAT ARE YOU GOING TO LEARN?
 **GIT**
 ![slide10](sld10.JPG)
 
+**WHAT IS GIT?**
+
+Git is version control system for tracking changes in computer files. It is generally used for source code management in software development.
+
+1. Git is used to track changes in the source code
+2. Allow multiple developers work together
+3. Supports non-linear development beacuse of its thousands of parallel branches
+
+![slide11](sld11.JPG)
 
 
