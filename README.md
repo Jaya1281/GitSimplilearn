@@ -50,4 +50,11 @@ GIT HAS THREE STAGES TO PERFORM
 
 ![slide14](sld14.JPG)
 
+![slide15](sld15.JPG)
+
+![slide16](sld16.JPG)
+![slide17](sld17.JPG)
+![slide18](sld18.JPG)
+![slide19](sld19.JPG)
+
 
