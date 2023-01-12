@@ -145,3 +145,10 @@ Delete the specified branch. This is a “safe” operation in that Git prevents
 **21. git branch -D <branch>**
 
 Force delete the specified branch, even if it has unmerged changes. This is the command to use if you want to permanently throw away all of the commits associated with a particular line of development.
+
+**22. git merge**
+
+Join two or more development histories together. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. 
+
+
+![slide20](sld20.JPG)
