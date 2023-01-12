@@ -164,4 +164,34 @@ Join two or more development histories together. The git merge command lets you 
 ![slide24](sld24.JPG)
 
 
+![slide26](sld26.JPG)
+
+![slide27](sld27.JPG)
+
+![slide28](sld28.JPG)
+
+![slide29](sld29.JPG)
+
+![slide30](sld30.JPG)
+
+![slide31](sld31.JPG)
+
+![slide32](sld32.JPG)
+
+![slide33](sld33.JPG)
+
+![slide34](sld34.JPG)
+
+![slide35](sld35.JPG)
+
+![slide36](sld36.JPG)
+
+![slide37](sld37.JPG)
+
+![slide38](sld38.JPG)
+
+**-------End of Git and github learning-------**
+
+
+
 
