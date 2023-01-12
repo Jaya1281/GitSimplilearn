@@ -152,3 +152,16 @@ Join two or more development histories together. The git merge command lets you 
 
 
 ![slide20](sld20.JPG)
+
+![slide21](sld21.JPG)
+
+![slide22](sld22.JPG)
+
+![slide25](sld25.JPG)
+
+![slide23](sld23.JPG)
+
+![slide24](sld24.JPG)
+
+
+
